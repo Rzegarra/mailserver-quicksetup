@@ -1,12 +1,12 @@
-export digitalocean_token=51ed08c5ca1ccc69572c330ec035cf7e0c69c723dd563ca077b51d2cbf6ba066
-export digitalocen_droplet_tag=sample_tag
-export cloudflare_token=ALxfPq8QMn37aRHPcsPUgNfTxU9sRrxVs58w12
-export cloudflare_email=youremail@domain.tld
-export postfix_admin_domain=domain.tld
+export digitalocean_token=06f10ad0657d6552687203ca9a6bbdbe30ec8294a1d263d4a93707abcc6335dd
+export digitalocen_droplet_tag=amicaHomepage
+export cloudflare_token=6f0e76b2b4a6400644d29dab9c85c9700d1b6
+export cloudflare_email=rafael.zegarra@ucsp.edu.pe
+export postfix_admin_domain=amica.pe
 export postfix_admin_email=admin
 export mail_server_host=mail
 export docker_compose_password=xxxxxxx
 export staging_certs=true
 export private_key=id_smtp
-export additional_domains=aa.tld, www.bb.tld...
+export additional_domains=amica.pe
 
